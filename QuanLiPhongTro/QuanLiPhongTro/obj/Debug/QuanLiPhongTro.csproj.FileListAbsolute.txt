@@ -1,0 +1,16 @@
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\bin\Debug\QuanLiPhongTro.exe.config
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\bin\Debug\QuanLiPhongTro.exe
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\bin\Debug\QuanLiPhongTro.pdb
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\bin\Debug\EntityFramework.dll
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\bin\Debug\EntityFramework.xml
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.csproj.AssemblyReference.cache
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.Properties.Resources.resources
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.csproj.GenerateResource.cache
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPh.20ADC77D.Up2Date
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.exe
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.pdb
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.DangNhapTK.resources
+C:\Users\Dat\Workspace\DoAN\QuanLiPhongTro\QuanLiPhongTro\obj\Debug\QuanLiPhongTro.HeThongChinh.resources

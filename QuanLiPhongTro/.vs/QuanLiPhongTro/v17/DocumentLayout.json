@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\hethongdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\hethongdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\hethongchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\hethongchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\hethongchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\hethongchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\dangkitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\dangkitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\hethongchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\hethongchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\hethongdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\hethongdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\dangkitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\dangkitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\dangkitaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\dangkitaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\models\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\models\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\models\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\models\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|c:\\users\\dat\\workspace\\doan\\quanliphongtro\\quanliphongtro\\models\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580B60B-9A2E-4699-B194-34325488971E}|QuanLiPhongTro\\QuanLiPhongTro.csproj|solutionrelative:quanliphongtro\\models\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeThongChinh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongChinh.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\HeThongChinh.Designer.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongChinh.Designer.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\HeThongChinh.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:37:40.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeThongChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongChinh.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\HeThongChinh.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongChinh.cs [Design]",
+              "RelativeToolTip": "QuanLiPhongTro\\HeThongChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:12:19.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeThongDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\HeThongDangNhap.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLiPhongTro\\HeThongDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:32:27.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeThongChinh.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongChinh.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\HeThongChinh.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongChinh.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\HeThongChinh.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:37:32.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangKiTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\DangKiTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\DangKiTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\DangKiTaiKhoan.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\DangKiTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:52:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeThongDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\HeThongDangNhap.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\HeThongDangNhap.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\HeThongDangNhap.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:40:45.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangKiTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\DangKiTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\DangKiTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\DangKiTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLiPhongTro\\DangKiTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:38:49.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangKiTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\DangKiTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\DangKiTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\DangKiTaiKhoan.Designer.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\DangKiTaiKhoan.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwHQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:52:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangKi.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\models\\DangKi.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\models\\DangKi.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\models\\DangKi.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\models\\DangKi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:42:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\models\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\models\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\models\\DangNhap.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\models\\DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:42:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLi.cs",
+              "DocumentMoniker": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\models\\QuanLi.cs",
+              "RelativeDocumentMoniker": "QuanLiPhongTro\\models\\QuanLi.cs",
+              "ToolTip": "C:\\Users\\Dat\\Workspace\\DoAN\\QuanLiPhongTro\\QuanLiPhongTro\\models\\QuanLi.cs",
+              "RelativeToolTip": "QuanLiPhongTro\\models\\QuanLi.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:40:23.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
